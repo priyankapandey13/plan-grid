@@ -4,7 +4,7 @@ import CardsColumns from "./Components/CardsColumns";
 import "./App.css";
 import Context from "./Components/Context";
 import PaginationLoader from "./Components/PaginationLoader";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container} from "react-bootstrap";
 import { useState } from "react";
 
 function App() {
